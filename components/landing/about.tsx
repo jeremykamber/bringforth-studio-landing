@@ -11,18 +11,17 @@ export function About() {
             About us
           </p>
           <h2 className="text-2xl md:text-3xl font-semibold mb-6">
-            We believe AI should serve humans, not replace them
+            We believe AI should feel human, not artificial
           </h2>
           <p className="text-foreground/60 leading-relaxed mb-8">
             Bringforth Studio is an AI Product Lab founded on the belief that
-            artificial intelligence should be a tool that amplifies human
-            capabilities rather than a replacement for human creativity and
-            judgment.
+            AI should enhance our humanity &mdash; not replace it. We build
+            tools that feel intuitive, empathetic, and genuinely helpful.
           </p>
           <p className="text-foreground/60 leading-relaxed mb-8">
-            Every product we build is designed to be a co-pilot in your work
-            &mdash; handling the repetitive, analytical tasks so you can focus
-            on what matters most: creativity, strategy, and human connection.
+            Every product we create is designed to make AI feel more
+            human: natural, thoughtful, and aligned with how we actually think
+            and work.
           </p>
           <div className="flex gap-4">
             <Button variant="primary" href="#products">

@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <p className="font-semibold mb-2">Bringforth Studio</p>
             <p className="text-sm text-foreground/50">
-              Building AI products that amplify human potential.
+              Making AI more human.
             </p>
           </div>
           <div className="flex gap-6">
