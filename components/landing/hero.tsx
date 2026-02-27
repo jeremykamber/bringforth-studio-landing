@@ -14,8 +14,8 @@ export function Hero() {
             <span className="text-foreground/60">More Human.</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/60 leading-relaxed max-w-2xl">
-            We build AI that feels like working with a brilliant teammate—
-            <span className="font-bold"> not a machine</span>.
+            We build AI that feels like <span className="font-bold">magic</span>—
+            not machinery.
           </p>
         </div>
       </Container>
